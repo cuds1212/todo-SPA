@@ -1,0 +1,21 @@
+{
+  "name": "todo-spa",
+  "version": "1.0.0",
+  "description": "A todo list single-page application built on the MEN stack.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "todo",
+    "SPA"
+  ],
+  "author": "Kevin Rompala",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.5"
+  }
+}
